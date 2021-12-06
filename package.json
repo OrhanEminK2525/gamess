@@ -1,0 +1,19 @@
+{
+  "name": "oyun-botu",
+  "version": "1.0.0",
+  "description": "zRooter tarafından geliştirilip satılıyor...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.2.0",
+    "fs": "*",
+    "node-fetch": "^2.6.5",
+    "wio.db": "^4.0.21"
+  },
+  "mdv@zrtr": "0.3.1"
+}
